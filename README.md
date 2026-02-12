@@ -33,9 +33,8 @@
 </div>
 
 <!-- 右侧图片 -->
-<div style="flex:0.5; text-align:center;">
-<img height="180" width="240" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/4.jpg"><br><br>
-<img height="180" width="240" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/2.jpg">
+<img hight="300" width="400" alt="GIF" align="right" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/4.jpg"><br><br>
+<img hight="300" width="400" alt="GIF" align="right" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/2.jpg">
 </div>
 
 </div>
@@ -43,12 +42,12 @@
 <br><br>
 
 <!-- 最后一张图：左图 + 右文字 -->
-<div style="display:flex; align-items:center;">
-<img height="180" width="240" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/1.jpg">
+<img hight="400" width="500" alt="GIF" align="left" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/1.jpg">
 
-<div style="margin-left:20px;">
 - ✨ Just like this, welcome to get to know me.
+
 - ✨ May everyone be able to turn this imperfect story into the life they’ve always hoped for.
+
 </div>
 </div>
 
