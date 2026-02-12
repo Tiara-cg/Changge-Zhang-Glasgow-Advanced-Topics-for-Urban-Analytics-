@@ -33,8 +33,8 @@
 </div>
 
 <!-- 右侧图片 -->
-<img hight="300" width="400" alt="GIF" align="right" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/4.jpg"><br><br>
-<img hight="300" width="400" alt="GIF" align="right" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/2.jpg">
+<img hight="180" width="240" alt="GIF" align="right" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/4.jpg"><br><br>
+<img hight="180" width="240" alt="GIF" align="right" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/2.jpg">
 </div>
 
 </div>
@@ -42,7 +42,7 @@
 <br><br>
 
 <!-- 最后一张图：左图 + 右文字 -->
-<img hight="400" width="500" alt="GIF" align="left" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/1.jpg">
+<img hight="260" width="360" alt="GIF" align="left" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/1.jpg">
 
 - ✨ Just like this, welcome to get to know me.
 
