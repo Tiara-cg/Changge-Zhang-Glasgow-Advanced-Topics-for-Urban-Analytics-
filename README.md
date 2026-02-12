@@ -25,7 +25,7 @@
 - ✨ Some programming tools  
 - ✨ (Hoping these skills can help me find a decent job XD)
 
-<br><br><br><br><br>
+<br><br><br>
 
 ### - Hobbies : 
 - ✨ Casual gamer (APEX, LOL, CS2, AAA games)  
