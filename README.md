@@ -14,11 +14,11 @@
 
 # About ME 💬 :
 
-### - I'm 24 years old Urban Analytics student from China.
+### - I'm 24 years old Urban Planning student from China.
 
 <table width="100%">
 <tr>
-<td width="65%">
+<td width="100%">
 
 ### - Learning :
 - ✨ Urban Analytics  
