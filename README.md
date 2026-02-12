@@ -4,6 +4,7 @@
 
 ### 🌍 Currently pursuing an MSc in Urban Analytics at the University of Glasgow, UK.
 
+
 <div align="center">
 <img height="300" width="700" alt="GIF" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/5.gif">
 </div>
@@ -23,6 +24,8 @@
 - ✨ Some programming tools  
 - ✨ (Hoping these skills can help me find a decent job XD)
 
+
+
 ### - Hobbies : 
 - ✨ Casual gamer (APEX, LOL, CS2, AAA games)  
 - ✨ Watching Anime  
@@ -32,8 +35,8 @@
 </td>
 
 <td width="35%" align="center">
-<img width="220" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/4.jpg"><br><br>
-<img width="220" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/2.jpg">
+<img width="280" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/4.jpg"><br><br>
+<img width="280" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/2.jpg">
 </td>
 </tr>
 </table>
@@ -48,6 +51,7 @@
 
 <td width="55%" align="center" style="font-size:18px;">
 <b>✨ Just like this, welcome to get to know me.</b><br><br>
+
 <b>✨ May everyone be able to turn this imperfect story into the life they’ve always hoped for.</b>
 </td>
 </tr>
