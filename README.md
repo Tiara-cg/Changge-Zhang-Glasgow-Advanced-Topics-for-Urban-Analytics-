@@ -18,7 +18,7 @@
 
 <table width="100%">
 <tr>
-<td width="75%">
+<td width="65%">
 
 ### - Learning :
 - ✨ Urban Analytics  
