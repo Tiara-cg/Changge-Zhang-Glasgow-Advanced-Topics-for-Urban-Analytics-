@@ -14,10 +14,9 @@
 
 ### - I'm 24 years old Urban Analytics student from China.
 
-<div style="display:flex; align-items:flex-start;">
-
-<!-- 左侧文字 -->
-<div style="flex:1;">
+<table>
+<tr>
+<td width="65%">
 
 ### - Learning :
 - ✨ Urban Analytics  
@@ -30,25 +29,28 @@
 - ✨ Reading Light Novels  
 - ✨ Badminton and fitness  
 
-</div>
+</td>
 
-<!-- 右侧图片 -->
-<img hight="180" width="240" alt="GIF" align="right" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/4.jpg"><br><br>
-<img hight="180" width="240" alt="GIF" align="right" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/2.jpg">
-</div>
-
-</div>
+<td width="35%" align="center">
+<img width="220" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/4.jpg"><br><br>
+<img width="220" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/2.jpg">
+</td>
+</tr>
+</table>
 
 <br><br>
 
-<!-- 最后一张图：左图 + 右文字 -->
-<img hight="260" width="360" alt="GIF" align="left" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/1.jpg">
+<table>
+<tr>
+<td width="45%">
+<img width="380" src="https://raw.githubusercontent.com/Tiara-cg/Changge-Zhang-Glasgow-Advanced-Topics-for-Urban-Analytics-/master/introduction/1.jpg">
+</td>
 
-- ✨ Just like this, welcome to get to know me.
-
-- ✨ May everyone be able to turn this imperfect story into the life they’ve always hoped for.
-
-</div>
-</div>
+<td width="55%" align="center" style="font-size:18px;">
+<b>✨ Just like this, welcome to get to know me.</b><br><br>
+<b>✨ May everyone be able to turn this imperfect story into the life they’ve always hoped for.</b>
+</td>
+</tr>
+</table>
 
 
